@@ -2,6 +2,7 @@ const navigationLinks = [
   { label: 'Home', href: '#home' },
   { label: 'About', href: '#about' },
   { label: 'Community', href: '#community' },
+  { label: 'API test', href: '/api-test' },
   { label: 'Help', href: '#help' },
 ]
 
